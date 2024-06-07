@@ -1,0 +1,24 @@
+* {
+    background-color:black;
+    color:white;
+
+}
+body {
+    height:100vh;
+    font-family: "Ceviche One", system-ui;
+    font-weight:400;
+    font-style:normal;
+}
+
+h1 {
+   text-align:center;
+   text-transform:uppercase;
+
+}
+
+img {
+    border:5px solid white;
+    border-radius:50%;
+    display:block;
+    margin: 0 auto;
+}
