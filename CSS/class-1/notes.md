@@ -1,3 +1,8 @@
+CSS Style and Design :
+There are 3 types :
+In-line
+Internal
+External
 CSS Selectors:
 Selectors:
 Selectors are patterns used to select HTML elements that you want to style. They are fundamental to CSS as they define the elements to which the CSS rules apply. Selectors can target elements based on their type, attributes, relationship with other elements, and more.
@@ -31,18 +36,25 @@ css:
 html:
 <button class="button">Click Me</button>
 <button class="button">Submit</button>
-
 Universal Selector :
-- Followed by '*' symbol
+Followed by * symbol
+Example :
+css:
+* {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
 
+## Note for Students:
 
-Note for Students:
 Understanding CSS selectors is crucial for effective styling of HTML elements. Remember:
 
-IDs should be unique, representing a single element.
-Classes can be reused across multiple elements. Choose selectors wisely to efficiently target and style elements on your webpage.
+- IDs should be unique, representing a single element.
+- Classes can be reused across multiple elements.
+  Choose selectors wisely to efficiently target and style elements on your webpage.
 
-## value :
+## Value :
 
-- SICTU(Style > Id > Class > Tag >Universal)
-- 1000 > 100 >10 > 1 > 0
+- SICTU(Style > Id > Class > Tag > Universal)
+- 1000 > 100 > 10 > 1 > 0
