@@ -38,7 +38,7 @@ align-items: Aligns flex items along the cross axis of the flex container.
 align-self: Overrides the align-items value for individual flex items.
 flex: Specifies the ability of a flex item to grow, shrink, or stay the same size relative to other flex items.
 order: Controls the order in which flex items appear within a flex container.
-Resources
+## Resources
 MDN Web Docs: Flexbox: A Complete Guide to Flexbox
 
 Flexbox Froggy: A game for learning Flexbox through puzzles.
@@ -57,7 +57,7 @@ margin-top
 margin-right
 margin-bottom
 margin-left
-padding :
+## padding :
 padding-top
 padding-left
 padding-right
