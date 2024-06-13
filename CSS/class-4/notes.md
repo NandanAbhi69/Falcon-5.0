@@ -16,9 +16,9 @@ The repeat() CSS function represents a repeated fragment of the track list, allo
 repeat(no_of_times,size)
 
 for eg: grid-template-columns: 100px 100px can be written as repeat(2,100px)
-Line based placement:
-## alt text
-
+## Line based placement:
+alt text
+![alt text](<image (1).png>)
 Example:
 #box3 {
   background-color: orange;
